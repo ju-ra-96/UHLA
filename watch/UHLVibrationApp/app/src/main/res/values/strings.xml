@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UHL Vibration App</string>
+    <!--
+        Moot defined strings. IDK why Android yells at us if we don't do this.
+    -->
+
+</resources>
